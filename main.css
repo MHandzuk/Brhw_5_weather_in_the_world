@@ -65,6 +65,7 @@ p {
 .Moscow {
   background-color: #000000;
   width: 25%;
+  text-transform: lowercase;
 }
 .TA {
   background-color: #e2674a;
